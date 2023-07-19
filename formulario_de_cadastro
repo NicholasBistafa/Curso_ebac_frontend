@@ -7,6 +7,7 @@
 </head>
 <body>
     <div class="box">
+        <form>
         <fieldset>Formulário de cadastro
         <br>
         <br> 
@@ -18,12 +19,13 @@
         <label for="email">Email </label>
 <br>
 <br>
-        <input type="text" name="senha" id="senha">
+        <input type="password" name="senha" id="senha">
         <label for="senha">Senha</label>
         <br>
         <br>
-        <input type="submit" name="submit">
+        <button type="submit">Cadastrar</button>
     </div>
-</fieldset>
+    </fieldset> 
+</form>
 </body>
 </html>
