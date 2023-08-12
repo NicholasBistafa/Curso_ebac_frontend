@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: roboto, sans-serif;
+}
+
+header {
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+form {
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+ul {
+
+    margin-left: 815px;
+}
